@@ -1,1 +1,2 @@
-# NTXH_22IT.EB023_flutter_lab
+# Nguyễn Thị Xuân Hồng 22IT.EB023 
+10 exercises flutter_lab
